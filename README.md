@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goni5847&show_icons=true&theme=dracula)
+![Goni5847's GitHub stats](https://github-readme-stats.vercel.app/api?username=goni5847&show_icons=true&theme=dracula)
